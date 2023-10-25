@@ -2,7 +2,7 @@
 # <h1 align="center"> Doctor Appointment Booking App </h1>
 <p align="center">
 <a href="Java url">
-<img alt="Java" src="https://img.shields.io/badge/Java-21-darkblue.svg" />
+<img alt="Java" src="https://img.shields.io/badge/Java-17-darkblue.svg" />
 </a>
 <a href="Maven url" >
 <img alt="Maven" src="https://img.shields.io/badge/maven-4.0-brightgreen.svg" />
